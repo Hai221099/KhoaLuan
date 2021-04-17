@@ -1,0 +1,14 @@
+.searchInput {
+  width: 30%;
+}
+.inline {
+  display: inline-block;
+}
+.buttonSearch {
+  margin-left: 10px;
+  margin-top: -0.005%;
+  font-size: 90%;
+}
+.search-page {
+  margin-left: 0%;
+}
